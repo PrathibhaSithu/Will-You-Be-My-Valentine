@@ -23,5 +23,5 @@ function handleNoClick() {
 }
 
 function handleYesClick() {
-    window.location.href = "..\HTML\YesPage.html";
+    window.location.href = "../HTML/YesPage.html";
 }
